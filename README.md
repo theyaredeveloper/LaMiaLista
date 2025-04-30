@@ -10,6 +10,9 @@ Grazie ai cookies, i dati inseriti nel sito verranno salvati nel tuo computer/te
 ![alt text](https://www.web2e.it/images/icone-soluzioniweb/form-registrazione.jpg)
 Puoi usare la lista immediatamente, senza che devi inserire dati personali...
 
+# Puoi scaricarla, per averla sempre a portata di mano
+![alt text]![image](https://github.com/user-attachments/assets/775f5136-6157-48ea-a369-667229c484c4)
+Se, su GitHub clicchi su <
 # Facile da usare
 ![alt text](![image](https://github.com/user-attachments/assets/92f6fe5c-c04c-4db4-808f-8f663727d948)
 Non servono istruzioni per usarla perchè è semplice e intuitiva.
